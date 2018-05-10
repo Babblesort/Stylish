@@ -34,3 +34,7 @@ div.card-icon.ui-droppable {
   border-radius: 10px;
   text-decoration: none;
 }
+
+div.card-name {
+  font-size: 1.1em;
+}
