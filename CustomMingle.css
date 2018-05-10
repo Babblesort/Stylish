@@ -1,0 +1,29 @@
+#card-index {
+ font-size: 32px;
+ line-height: 26px;
+ font-weight: bold;
+ float: left;
+ margin-left: 10px;
+ margin-right: 25px;
+ color: blue;
+ text-shadow: 2px 1px 2px darkgoldenrod;
+}
+
+div.card-icon.ui-droppable {
+  width: 95% !important;
+}
+
+.card-summary-number {
+    font-size: 1.5em;
+}
+
+.card-icon .colored-tags {
+    font-size: 85%;
+    padding: 3px;
+    opacity: 0.7;
+    -webkit-transform: translate(-45px, 72px) rotate(0deg);
+    -moz-transform: translate(-45px, 72px) rotate(0deg);
+    -ms-transform: translate(-45px, 72px) rotate(0deg);
+    -o-transform: translate(-45px, 72px) rotate(0deg);
+    transform: translate(-45px, 72px) rotate(0deg);
+}
